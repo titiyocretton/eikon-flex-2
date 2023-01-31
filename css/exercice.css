@@ -23,7 +23,10 @@
 }
 
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container {
+  display: flex;
+  align-items: flex-end;
+}
 
 /* 6. exercice-align-2 */
 
