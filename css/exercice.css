@@ -4,7 +4,10 @@
 }
 
 /* 2. exercice-justify-1 */
-
+.exercice-justify-1 .container {
+  display: flex;
+  justify-content: end;
+}
 
 /* 3. exercice-justify-2 */
 
